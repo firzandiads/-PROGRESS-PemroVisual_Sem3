@@ -1,0 +1,10 @@
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\bin\Debug\Prak_8.exe
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\bin\Debug\Prak_8.pdb
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\bin\Debug\Prak_8.xml
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\Prak_8.Form1.resources
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\Prak_8.Resources.resources
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\Prak_8.vbproj.GenerateResource.Cache
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\Prak_8.exe
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\Prak_8.xml
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_8\obj\Debug\Prak_8.pdb

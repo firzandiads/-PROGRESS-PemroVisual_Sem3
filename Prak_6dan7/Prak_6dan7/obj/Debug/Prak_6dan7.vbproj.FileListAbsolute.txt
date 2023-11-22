@@ -1,0 +1,10 @@
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\bin\Debug\Prak_6dan7.exe
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\bin\Debug\Prak_6dan7.pdb
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\bin\Debug\Prak_6dan7.xml
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\Prak_6dan7.Form1.resources
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\Prak_6dan7.Resources.resources
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\Prak_6dan7.vbproj.GenerateResource.Cache
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\Prak_6dan7.exe
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\Prak_6dan7.xml
+C:\Users\firza\AppData\Local\Temporary Projects\Prak_6dan7\obj\Debug\Prak_6dan7.pdb
